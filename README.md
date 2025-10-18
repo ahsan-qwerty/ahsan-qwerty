@@ -21,10 +21,10 @@ Here are some of the key projects I've worked on, showcasing my skills in Genera
 
 | Project Name | Technologies | Description | Link |
 | :--- | :--- | :--- | :--- |
-| **Hammurabi AI Assistant** | LangChain, Next.js, OpenAI | *an AI-powered web app that answers legal questions, summarizes and analyzes documents, and drafts legal text. Built with a Python backend and JavaScript frontend; intended to assist legal work, not replace licensed attorneys* | [Lawyer AI](https://dev-ham.up.railway.app/login) |
-| **Netsuite AI Assistant** | LangChain, React, APIs | *An internal tool for data querying or task automation within a Netsuite environment.* | [Netsuite](https://www.suitesolutions.ai/) |
-| **Eureka Express** | Next.js, React | *Eureka Xpress offers printing services across all sectors, specializing in Printing, Publishing, and Packaging.* | [Eureka Xpress](https://eureka-xpress.com/) |
-| **Raha Financials** | Next.js, React | *A financial services or investment portfolio tracking website.* | [Raha Financials](https://rahafinancials.com/) |
+| **Hammurabi AI Assistant** | LangChain, Next.js, tRPC | *an AI-powered web app that answers legal questions, summarizes and analyzes documents, and drafts legal text. Built with a Python backend and JavaScript frontend; intended to assist legal work, not replace licensed attorneys* | [Lawyer AI](https://dev-ham.up.railway.app/login) |
+| **Netsuite AI Assistant** | LangChain, Nextjs, APIs | *An internal tool for data querying or task automation within a Netsuite environment.* | [Netsuite](https://www.suitesolutions.ai/) |
+| **Eureka Express** | Next.js | *Eureka Xpress offers printing services across all sectors, specializing in Printing, Publishing, and Packaging.* | [Eureka Xpress](https://eureka-xpress.com/) |
+| **Raha Financials** | Next.js | *A financial services or investment portfolio tracking website.* | [Raha Financials](https://rahafinancials.com/) |
 
 ---
 
