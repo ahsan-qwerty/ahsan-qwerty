@@ -1,44 +1,56 @@
-### Hi there, Ahsan here
+# Hi, I'm Ahsan Shah 👋
 
-    
-### Student Life
->     I am a Computer Science graduate, working on Javascript based backend technologies to build efficient applications.
->     Try to solve real life and programming based problems. I have a huge interest in cricket and cricket statistics.
-###  Professional Side:
->   For the front end I am using **React JS 🕸️** with cool advance libraries according to customers' demand.
-    For backend, I use **Nodejs (server)**, **MongoDB (database etc)**
-    I believe that hard work and passion can pay you back. I have reaped the results of my efforts. In my free time, I used to write blogs to enhance my      understanding and to share my knowledge in the community because I believe that sharing is caring.
-### My Work and projects
+I'm an **Associate Generative AI Developer** with a passion for building intelligent applications and a recent graduate in **Computer Science** from **Sukkur IBA University (2024)**. I specialize in bridging the gap between cutting-edge AI models and practical, user-friendly applications.
 
+---
 
-### Portfolio    
-🔗 [Ahsan's Personal Portfolio Website](https://ahsan-portfolio-app.vercel.app/)
+## 🚀 Skills & Technologies
 
-### Technologies I am working with:
-    👉	Front End
-            HTML5
-            CSS
-            Bootstrap 5
-            Javascript
-                React.js
-    👉  Back End
-            Nodejs
-            Expressjs
-    👇 Tools:
-    👉	Databases
-            * MongoDB Server for NoSQL Document-based Projects
-    👉  Version Control
-            Github
-    👉  Development IDEs
-            JetBrains IntelliJ Idea (Community Edition)
-            Netbeans
-            Visual Studio Code
-    👉  APIs Testing Tools
-            Postman Client
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ahsan-qwerty)](https://git.io/streak-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsan-qwerty&show_icons=true&theme=dark)
-![GitHub Trophies ](https://github-profile-trophy.vercel.app/?username=ahsan-qwerty)
-![GitHub Trophies ](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsan-qwerty)
-  
-    
-  
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Generative AI & LLMs** | **LangChain** 🦜, Chat Models (GEMINI), Prompt Templating |
+| **Frontend Development** | **Next.js**, **React**, HTML5, CSS3, Streamlit 📊 |
+| **Backend & Others** | Node.js, REST APIs, Git/GitHub, Office Word Add-ins 📄 |
+| **Database** | MongoDB, mySQL |
+
+---
+
+## 🛠️ Featured Projects
+
+Here are some of the key projects I've worked on, showcasing my skills in Generative AI and web development:
+
+| Project Name | Technologies | Description | Link |
+| :--- | :--- | :--- | :--- |
+| **Hammurabi AI Assistant** | LangChain, Next.js, OpenAI | *(Briefly describe the purpose, e.g., A legal or historical query assistant using LLMs.)* | [Lawyer AI](https://dev-ham.up.railway.app/login) |
+| **Netsuite AI Assistant** | LangChain, React, APIs | *(Briefly describe the purpose, e.g., An internal tool for data querying or task automation within a Netsuite environment.)* | [Netsuite](https://www.suitesolutions.ai/) |
+| **Eureka Express** | Next.js, React | *(Briefly describe the purpose, e.g., A logistics company website focused on tracking and services.)* | [Eureka Xpress](https://eureka-xpress.com/) |
+| **Raha Financials** | Next.js, React | *(Briefly describe the purpose, e.g., A financial services or investment portfolio tracking website.)* | [Raha Financials](https://rahafinancials.com/) |
+
+---
+
+## 🧠 What I'm Learning & Interested In
+
+I'm constantly looking to expand my knowledge, particularly in:
+
+* **Advanced LLM Architectures and Techniques** 🤖
+* Deepening my expertise in **Next.js and Serverless Functions**
+* Exploring **DevOps and CI/CD** pipelines
+
+---
+
+## 💡 Beyond the Code
+
+When I'm not developing, you can find me:
+
+* 🏏 Deep diving into **Cricket Stats** and following matches.
+* 📈 Researching and analyzing the **Stock Market** for investment opportunities.
+* 🎧 Listening to **Podcasts** on technology, finance, and current affairs.
+
+---
+
+## 🤝 Let's Connect!
+
+Feel free to reach out—I'm always open to discussing new opportunities or collaborating on interesting projects!
+
+* [**LinkedIn**] [[Ahsan Ali](https://www.linkedin.com/in/ahsan-ali49/)]
+* **Email:** [ahsan.shah330@gmail.com]
