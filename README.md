@@ -8,7 +8,7 @@ I'm an **Associate Generative AI Developer** with a passion for building intelli
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Generative AI & LLMs** | **LangChain** 🦜, Chat Models (GEMINI), Prompt Templating |
+| **Generative AI & LLMs** | **LangChain** 🦜, Chat Models (GEMINI), Prompt Templating, Chains |
 | **Frontend Development** | **Next.js**, **React**, HTML5, CSS3, Streamlit 📊 |
 | **Backend & Others** | Node.js, REST APIs, Git/GitHub, Office Word Add-ins 📄 |
 | **Database** | MongoDB, mySQL |
